@@ -9,6 +9,7 @@
         <e p="Basics" t="Include">
           <e p="Scripts" t="Include">
             <e p="Clock.cs" t="Include" />
+            <e p="GraphBuilder.cs" t="Include" />
           </e>
         </e>
         <e p="Plugins" t="Include">
